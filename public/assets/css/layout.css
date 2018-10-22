@@ -778,7 +778,7 @@ button,
             background-color: #e8edec;
         }
 
-        video.container { 
+        /* video.container { 
             display: flex;
             position: fixed;
             width: 25%;
@@ -789,4 +789,5 @@ button,
             height: .5em;
             z-index: -2;
             transform: translate(50%, 50%);
-        }
+            overflow: hidden;
+        } */
