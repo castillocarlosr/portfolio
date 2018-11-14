@@ -5,7 +5,9 @@ This portfolio is an ever evolving work that is being updated as my life's caree
 
 Created on: October 19, 2018
 ~~Last major update: October 19, 2018~~
+
 ~~Last major update: October 24, 2018~~
+
 Last major update: November 14, 2018
 
 
