@@ -294,6 +294,11 @@ section, article {
         width: 100%;
     }
 
+    .image.fit:hover{
+        background-color: #444;
+        border-radius: 70%;
+    }
+
     .image.featured {
         display: block;
         width: 100%;
