@@ -4,6 +4,7 @@ My portfolio made by me personally.  *Carlos R. Castillo*
 This portfolio is an ever evolving work that is being updated as my life's career changes.
 
 Created on: October 19, 2018
+
 ~~Last major update: October 19, 2018~~
 
 ~~Last major update: October 24, 2018~~
