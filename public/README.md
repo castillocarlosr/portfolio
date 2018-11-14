@@ -18,4 +18,4 @@ www.linkedin.com/in/carlosrcastillo
 
 
 I also welcome any recuiters or employers looking to add my skills to their company and/or team.
-Provided that they have seattle coffee :coffee: Don't worry.  The coffee is not a deal breaker.
+Bonus if they have Seattle Coffee :coffee: .
