@@ -292,10 +292,12 @@ section, article {
     .image.fit {
         display: block;
         width: 100%;
+        transition-property: background, border-radius;
+        transition-duration: .2s, 1s;
+        transition-timing-function: linear;
     }
 
     .image.fit:hover{
-        background-color: #444;
         border-radius: 70%;
     }
 
