@@ -1513,7 +1513,7 @@
 					-webkit-font-smoothing: antialiased;
 					-moz-osx-font-smoothing: grayscale;
 					content: '\f0c9';
-					color: blue;
+					color: rgba(11, 0, 110, 0.726);
 					font-size: 18px;
 					line-height: 2.25em;
 					background: rgba(128, 136, 144, 0.5);
@@ -1597,7 +1597,7 @@
 		}
 
 		.container {
-			background-color: rgb(1, 1, 82);
+			background-color: rgba(127, 226, 102, 0.671);
 			padding: 0 15px 0 15px;
 		}
 
