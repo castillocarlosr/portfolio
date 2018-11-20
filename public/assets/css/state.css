@@ -1594,11 +1594,13 @@
 			font-size: 1.5em;
 			letter-spacing: 0;
 			font-weight: 300;
+			color: rgba(247, 4, 4, 0.954);
 		}
 
 		.container {
-			background-color: rgba(127, 226, 102, 0.671);
+			background-color: rgba(44, 44, 44, 0.666);
 			padding: 0 15px 0 15px;
+			color: whitesmoke;
 		}
 
 	/* List */
