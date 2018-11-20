@@ -765,8 +765,7 @@ button,
         }
 
         #main > section.one {
-            background-color: rgba(126, 214, 198, 0.76); 
-            /* background-image: url("../../images/hiking.jpeg"); */
+            background-color: rgba(244, 244, 244, 0.694); 
         }
 
         .stopfade { 
