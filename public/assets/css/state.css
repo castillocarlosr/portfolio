@@ -10,7 +10,7 @@
 @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 	.container {
-		background-image: url(../../images/pic08.jpg);
+		background-image: url(../../images/seaChase.jpeg);
 		width: 1200px;
 	}
 
@@ -19,7 +19,7 @@
 @media screen and (min-width: 961px) and (max-width: 1620px) {
 
 	.container {
-		background-image: url(../../images/needleField.jpeg);
+		background-image: url(../../images/pic06.jpg);
 		width: 960px;
 	}
 
@@ -28,7 +28,7 @@
 @media screen and (min-width: 961px) and (max-width: 1320px) {
 
 	.container {
-		background-image: url(../../images/fireworks.jpeg);
+		background-image: url(../../images/pic07.jpg);
 		width: 100%;
 	}
 
