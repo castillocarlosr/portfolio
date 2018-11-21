@@ -298,7 +298,7 @@ section, article {
     }
 
     .image.fit:hover{
-        border-radius: 70%;
+        border-radius: 66%;
     }
 
     .image.featured {
@@ -463,7 +463,7 @@ table {
     }
 
     table tfoot {
-        background: #eee;
+        background: rgb(238, 238, 238);
     }
 
 /* Button */
@@ -695,8 +695,9 @@ button,
 #footer {
     margin-left: 375px;
     text-align: center;
-    background-color: #dce3e2;
-    padding: 3em 0 4em 0;
+    /* background-color: #dce3e2; */
+    background-color: #610213de;
+    padding: 2em 0 4em 0;
     box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
     font-size: 0.8em;
 }
