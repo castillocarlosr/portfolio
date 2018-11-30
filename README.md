@@ -9,7 +9,9 @@ Created on: October 19, 2018
 
 ~~Last major update: October 24, 2018~~
 
-Last major update: November 14, 2018
+~~Last major update: November 14, 2018~~
+
+Last major update: November 30, 2018
 
 
 Feel free to visit my LinkedIn page as well.
