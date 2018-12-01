@@ -77,12 +77,13 @@ html {
 }
 
 body {
-    background: rgba(146, 179, 252, 0.53);
+    background: rgba(130, 163, 233, 0.444);
+    /* background: rgba(9, 172, 9, 0.53); */
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: rgb(255, 227, 227);
+    color: rgb(255, 234, 234);
 }
 
     body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -106,8 +107,8 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    /* color: #666; */
-    color: darkred;
+    color: rgb(57, 209, 44);
+    /* color: darkred; */
     line-height: 1.5em;
 }
 

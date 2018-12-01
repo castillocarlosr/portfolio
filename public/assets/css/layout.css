@@ -564,7 +564,7 @@ button,
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background: #4b535886 url("images/overlay.png");
+    background: #044737b5 url("images/overlay.png");
     box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
     color: #fff;
     height: 100%;
@@ -601,7 +601,7 @@ button,
     }
 
         #header .icons a {
-            color: #41484c;
+            color: #04040484;
             -moz-transition: color 0.35s ease-in-out;
             -webkit-transition: color 0.35s ease-in-out;
             -ms-transition: color 0.35s ease-in-out;
@@ -655,7 +655,7 @@ button,
         #nav ul li a {
             display: block;
             padding: 0.5em 1.5em 0.5em 1.5em;
-            color: rgba(255, 255, 255, 0.5);
+            color: rgba(254, 254, 254, 0.984);
             text-decoration: none;
             outline: 0;
             border: 0;
@@ -764,9 +764,10 @@ button,
             background-size: cover;
             background-position: center center;
         }
-
+/* change this area carlos.  Don't forget carlos.  Needs to blend carlos.  Love me, -carlos*/
         #main > section.one {
-            background-color: rgba(244, 244, 244, 0.694); 
+            /* background-color: #421f52de; */
+            background-image: url("../../images/pic07.jpg");
         }
 
         .stopfade { 
@@ -774,11 +775,11 @@ button,
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: #678888c4;
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: #50a5a5de;
         }
 
         #main > section.four {
