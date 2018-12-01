@@ -764,9 +764,10 @@ button,
             background-size: cover;
             background-position: center center;
         }
-
+/* change this area carlos.  Don't forget carlos.  Needs to blend carlos.  Love me, -carlos*/
         #main > section.one {
-            background-color: rgba(244, 244, 244, 0.694); 
+            /* background-color: #421f52de; */
+            background-image: url("../../images/pic07.jpg");
         }
 
         .stopfade { 
@@ -774,11 +775,11 @@ button,
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: #678888c4;
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: #50a5a5de;
         }
 
         #main > section.four {
