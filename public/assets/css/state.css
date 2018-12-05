@@ -1303,6 +1303,14 @@
 		#footer {
 			margin-left: 300px;
 		}
+		#footer .copyright li {
+			background-color: rgba(241, 121, 105, 0.89);
+			display: block;
+			line-height: 1.25em;
+			border: 0;
+			padding: 0;
+			margin: 1em 1em 1em 0;
+		}
 
 	/* Main */
 
@@ -1385,6 +1393,14 @@
 
 		#footer {
 			margin-left: 20%;
+		}
+		#footer .copyright li {
+			background-color: rgba(197, 97, 218, 0.89);
+			display: block;
+			line-height: 1.25em;
+			border: 0;
+			padding: 0;
+			margin: 1em 1em 1em 0;
 		}
 
 	/* Main */
