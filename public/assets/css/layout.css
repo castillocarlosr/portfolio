@@ -609,7 +609,7 @@ button,
         }
 
             #header .icons a:hover {
-                color: #fff;
+                color: rgb(249, 249, 249);
             }
 
 #logo {
@@ -621,7 +621,7 @@ button,
 
     #logo h1 {
         position: relative;
-        color: #fff;
+        color: rgba(9, 15, 56, 0.994);
         font-weight: 600;
         font-size: 1em;
         line-height: 1em;
@@ -631,7 +631,7 @@ button,
         position: relative;
         display: block;
         font-size: 0.6em;
-        color: rgba(255, 255, 255, 0.5);
+        color: rgba(9, 15, 56, 0.994);
         line-height: 1.25em;
         margin: 0.5em 0 0 0;
     }
@@ -655,7 +655,7 @@ button,
         #nav ul li a {
             display: block;
             padding: 0.5em 1.5em 0.5em 1.5em;
-            color: rgba(254, 254, 254, 0.984);
+            color: rgba(140, 6, 180, 0.984);
             text-decoration: none;
             outline: 0;
             border: 0;
@@ -695,8 +695,8 @@ button,
 #footer {
     margin-left: 375px;
     text-align: center;
-    /* background-color: #dce3e2; */
-    background-color: #610213de;
+    background-color: #dce3e2;
+    /* background-color: #610213de; */
     padding: 2em 0 4em 0;
     box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
     font-size: 0.8em;
