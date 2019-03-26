@@ -1,6 +1,7 @@
 # Carlos R. Castillo portfolio
 My portfolio made by me personally.  *Carlos R. Castillo*
 
+
 This portfolio is an ever evolving work that is being updated as my life's career changes.
 
 Created on: October 19, 2018
@@ -11,8 +12,9 @@ Created on: October 19, 2018
 
 ~~Last major update: November 30, 2018~~
 
-Last major update: December 05, 2018
+~~Last major update: December 05, 2018~~
 
+Last major update: March 26, 2019
 
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
