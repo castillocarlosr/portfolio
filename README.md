@@ -19,13 +19,16 @@ Created on: October 19, 2018
 
 ~~Last major update: March 26, 2019~~
 
-Last major update: Arpil 18, 2019
+ Last major update: Arpil 18, 2019
 
-Feel free to visit my LinkedIn page as well.
+ Feel free to visit my LinkedIn page as well.
+
+
+[LinkedIn](www.linkedin.com/in/carlosrcastillo)
 www.linkedin.com/in/carlosrcastillo
 
 
 
 
 I also welcome any recuiters or employers looking to add my skills to their company and/or team.
-Bonus if they have Seattle Coffee :coffee: .
+:coffee: .
