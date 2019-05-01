@@ -303,10 +303,8 @@ section, article {
 
     .image.featured {
         display: block;
-        float: right;
-        width: 30%;
-        /*margin: 0 0 2em 0;*/
-        margin: 0 0 0 1em;
+        width: 100%;
+        margin: 0 0 2em 0;
     }
 
     .image.left {
@@ -460,7 +458,7 @@ table {
     }
 
     table thead {
-        background: rgba(124, 117, 117, 0.698);
+        background: rgba(124, 117, 117, 0.700);
         color: #fff;
     }
 
@@ -513,7 +511,7 @@ button,
 /* Item */
 
 .item {
-    box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0.05em 0.15em 0 rgba(255, 255, 255, 0.05);
     margin-bottom: 40px;
 }
 
