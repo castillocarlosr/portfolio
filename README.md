@@ -33,5 +33,5 @@ www.linkedin.com/in/carlosrcastillo
 
 
 I also welcome any recuiters or employers looking to add my skills to their company and/or team.
-Ideal location:  Seattle, Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, other easy commute by bus, light-rail, or car.
+Ideal location:  Seattle, Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, or other easy commute by bus, light-rail, or car.
 :coffee: .
