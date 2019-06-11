@@ -21,7 +21,7 @@ Created on: October 19, 2018
 
 ~~Last major update: Arpil 18, 2019~~
 
-Last major update: May 01, 2019
+Last major update: June 10, 2019
 
  Feel free to visit my LinkedIn page as well.
 
