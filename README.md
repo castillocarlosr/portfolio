@@ -16,7 +16,9 @@ Created on: October 19, 2018
 ~~Last major update: March 26, 2019~~<br>
 ~~Last major update: Arpil 18, 2019~~<br>
 ~~Last major update: May 04, 2019~~<br>
+![](public/images/ScreenShotPortfolio.png?raw=true)
 Last major update: June 14, 2019<br>
+
 
 
  Feel free to visit my LinkedIn page as well.
