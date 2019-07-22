@@ -7,6 +7,7 @@ const express = require('express');
 var sslRedirect = require('heroku-ssl-redirect');
 
 const app = express();
+app.use(sslRedirect());
 
 const PORT = process.env.PORT || 3000;
 
@@ -17,8 +18,5 @@ app.get('/', (request, response) => {
 });
 
 app.use('*', (request, response) => response.send('Sorry, that route does not exist.  These are not the droids you are looking for.'));
-
-//This is where it is called.  These are my comments because I don't know if this will work-Carlos
-app.use(sslRedirect());
 
 app.listen(PORT,() => console.log(`Listening on port ${PORT}`));
