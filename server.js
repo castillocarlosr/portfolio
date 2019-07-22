@@ -12,9 +12,19 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.static('./public'));
-
+/*
 app.get('/', (request, response) => {
   response.sendFile('index.html', {root: './public'});
+});
+*/
+//Below is recommended by host
+app.get('/', function(request, response) {
+  response.redirect('https://carloscastillo.us/tls');
+});
+
+app.get('/tls', function(request, response) {
+  console.log('I\'m here over an encrypted channel now!!!!!!');
+  response.render('pages/index');
 });
 
 app.use('*', (request, response) => response.send('Sorry, that route does not exist.  These are not the droids you are looking for.'));
