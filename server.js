@@ -4,10 +4,10 @@ const express = require('express');
 
 //new line added july 22, 2019.
 //Enforce redirect for https
-var sslRedirect = require('heroku-ssl-redirect');
+//var sslRedirect = require('heroku-ssl-redirect');
 
 const app = express();
-app.use(sslRedirect());
+//app.use(sslRedirect());
 
 const PORT = process.env.PORT || 3000;
 
