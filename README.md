@@ -3,7 +3,8 @@ My portfolio made by me personally.  *Carlos R. Castillo*
 
 [![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/)
 
-The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/
+~~The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/~~
+The link to my personal portfolio is https://carloscastillo.us
 
 This portfolio is an ever evolving work that is being updated as my life's career changes.
 
@@ -18,6 +19,8 @@ Created on: October 19, 2018
 ~~Last major update: May 04, 2019~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
 Last major update: June 14, 2019<br>
+
+
 
 
 
