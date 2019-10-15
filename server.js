@@ -11,6 +11,17 @@ const app = express();
 
 const PORT = process.env.PORT || 3000 || process.env.VCAP_APP_PORT;
 
+app.enable('trust proxy');
+
+app.use(function(request, response, next){
+  if(request.secure){
+    next();
+  }
+  else{
+    response.redirect('https://' + request.headers.host + request.url)
+  }
+});
+
 app.use(express.static('./public'));
 /*
 app.get('/', (request, response) => {
@@ -24,6 +35,7 @@ app.get('/', function(request, response) {
 
 app.get('/tls', function(request, response) {
   console.log('I\'m here over an encrypted channel now!!!!!!');
+  console.log('Last checkin on Oct 14, 2019.  Yup.');
   response.render('pages/index');
 });
 
