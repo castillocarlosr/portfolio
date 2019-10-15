@@ -9,7 +9,7 @@ const express = require('express');
 const app = express();
 //app.use(sslRedirect());
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000 || process.env.VCAP_APP_PORT;
 
 app.use(express.static('./public'));
 /*
