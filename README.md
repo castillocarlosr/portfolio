@@ -17,9 +17,11 @@ Created on: October 19, 2018
 ~~Last major update: March 26, 2019~~<br>
 ~~Last major update: Arpil 18, 2019~~<br>
 ~~Last major update: May 04, 2019~~<br>
+~~Last major update: June 14, 2019~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last major update: June 14, 2019<br>
-
+Last major update: October 14, 2019
+- Updated:  Added React project.
+- Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
 
 
 
@@ -27,12 +29,12 @@ Last major update: June 14, 2019<br>
  Feel free to visit my LinkedIn page as well.
 
 
-[LinkedIn](www.linkedin.com/in/carlosrcastillo)
+[LinkedIn:  ](www.linkedin.com/in/carlosrcastillo)
 www.linkedin.com/in/carlosrcastillo
 
 
 
 
 I also welcome any recuiters or employers looking to add my skills to their company and/or team.
-Ideal location:  Seattle, Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, or other easy commute by bus, light-rail, or car.
+Ideal location:  Seattle, Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, or other easy to commute by in bus, light-rail, car or a pleasent walk.
 :coffee: .

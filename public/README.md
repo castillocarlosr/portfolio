@@ -17,7 +17,17 @@ Created on: October 19, 2018
 
 ~~Last major update: December 05, 2018~~
 
-Last major update: March 26, 2019
+~~Last major update: March 26, 2019~~
+
+~~Last major update: Arpil 18, 2019~~<br>
+
+~~Last major update: May 04, 2019~~<br>
+
+~~Last major update: June 14, 2019~~<br>
+![](images/ScreenShotPortfolio.png?raw=true)
+Last major update: October 14, 2019
+- Updated:  Added React project.
+- Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
 
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
