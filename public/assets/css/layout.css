@@ -512,15 +512,46 @@ button,
 /* Item */
 
 .item {
+    /*
     box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
     margin-bottom: 40px;
+    border: 2px outset;
+    border-color: cyan magenta;*/
+    --borderWidth: 1em;
+    background: #1d1f2051;
+    position: relative;
+    border-radius: var(--borderWidth);
+}
+.item::after{
+    content: '';
+    position: absolute;
+    top: calc(-1 * var(--borderWidth));
+    left: calc(-1 * var(--borderWidth));
+    height: calc(100% + var(--borderWidth) * 2);
+    width: calc(100% + var(--borderWidth) * 2);
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    border-radius: calc(2 * var(--borderWidth));
+    z-index: -1;
+    animation: animatedgradient 3s ease alternate infinite;
+    background-size: 100%;
+}
+@keyframes animatedgradient{
+    0%{
+        background-position: 0% 50% 50%;
+    }
+    50%{
+        background-position: 100% 50% 100%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
 }
 
     .item header {
         background: #fff;
         font-family: 'Playfair Display SC', serif;
         margin: 0;
-        padding: 1em 0 1em 0;
+        padding: .25em 0 1em 0;
         font-size: 0.8em;
     }
 
