@@ -108,7 +108,6 @@ input, textarea, select {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: rgb(57, 209, 44);
-    /* color: darkred; */
     line-height: 1.5em;
 }
 
