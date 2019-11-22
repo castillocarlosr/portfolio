@@ -23,6 +23,7 @@ app.use(function(request, response, next){
 });
 
 app.use(express.static('./public'));
+//Legacy code last used July 22, 2019.  comment added nov 21 2019
 /*
 app.get('/', (request, response) => {
   response.sendFile('index.html', {root: './public'});
