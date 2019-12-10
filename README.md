@@ -1,4 +1,7 @@
-# Carlos R. Castillo portfolio
+# PORTFOLIO
+# Carlos R. Castillo
+##### www.carloscastillo.us
+
 My portfolio made by me personally.  *Carlos R. Castillo*
 
 [![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/)
