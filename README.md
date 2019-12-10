@@ -20,6 +20,7 @@ Created on: October 19, 2018
 ~~Last major update: June 14, 2019~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
 Last major update: October 14, 2019
+Last minor update: December 09, 2019
 - Updated:  Added React project.
 - Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
 
