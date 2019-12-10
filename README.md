@@ -1,12 +1,12 @@
 # PORTFOLIO
 # Carlos R. Castillo
-#### www.carloscastillo.us
+### www.carloscastillo.us
 
 My portfolio made by me personally.  *Carlos R. Castillo*
 
 [![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/)
 
-~~The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/~~< /br>
+~~The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/~~<br />
 The link to my current personal portfolio is https://carloscastillo.us
 
 This portfolio is an ever evolving work that is being updated as my life's career changes.
