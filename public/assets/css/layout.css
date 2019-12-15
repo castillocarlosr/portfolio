@@ -772,8 +772,8 @@ button,
         }
 /* change this area carlos.  Don't forget carlos.  Needs to blend carlos.  Love me, -carlos*/
         #main > section.one {
-            /* background-color: #421f52de; */
-            background-image: url("../../images/december25.jpg");
+            background-color: #222733;
+            
         }
 
         .stopfade { 
@@ -781,18 +781,18 @@ button,
         }
 
         #main > section.two {
-            background-image: url("../../images/december25.jpg");
-            /* background-color: #678888c4; */
+            
+            background-color: #222733;
         }
 
         #main > section.three {
-            background-image: url("../../images/december25.jpg");
-            /* background-color: #50a5a5de; */
+            
+            background-color: #222733;
         }
 
         #main > section.four {
-            background-image: url("../../images/december25.jpg");
-            /* background-color: #e8edec; */
+            
+            background-color: #222733; 
         }
 
         /* video.container { 
