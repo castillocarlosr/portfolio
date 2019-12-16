@@ -123,7 +123,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 h2 {
     font-size: 2em;
     letter-spacing: -1px;
-    
+    text-decoration: underline;
 }
 
     h2.alt {
