@@ -12,19 +12,13 @@ This portfolio is an ever evolving work that is being updated as my life's caree
 
 Created on: October 19, 2018
 
-~~Last major update: October 24, 2018~~<br>
-~~Last major update: November 14, 2018~~<br>
-~~Last major update: November 30, 2018~~<br>
-~~Last major update: December 05, 2018~~<br>
-~~Last major update: March 26, 2019~~<br>
-~~Last major update: Arpil 18, 2019~~<br>
-~~Last major update: May 04, 2019~~<br>
-~~Last major update: June 14, 2019~~<br>
+~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last major update: October 14, 2019<br>
-Last minor update: December 13, 2019
+Last major update: October 21, 2019<br>
+Last minor update: December 16, 2019
 - Updated:  Added React project.
 - Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
+- Updated:  Background music to intro video.
 
 
 
