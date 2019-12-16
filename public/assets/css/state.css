@@ -10,9 +10,10 @@
 @media screen and (min-width: 961px) and (max-width: 1880px) {
 
 	.container {
-		background-color: brown;
-		background-image: url(../../images/pic07.jpg);
-		/* background-image: url(../../images/seaChase.jpeg); */
+		/*background-color: brown;*/
+		background-color: #222734;
+		/*background-image: url(../../images/pic07.jpg);*/
+
 		width: 1200px;
 	}
 
@@ -21,8 +22,9 @@
 @media screen and (min-width: 961px) and (max-width: 1620px) {
 
 	.container {
-		background-image: url(../../images/pic07.jpg);
-		/* background-image: url(../../images/seaChase.jpeg); */
+		background-color: #222734;
+		/*background-image: url(../../images/pic07.jpg);*/
+
 		width: 960px;
 	}
 
@@ -31,8 +33,8 @@
 @media screen and (min-width: 961px) and (max-width: 1320px) {
 
 	.container {
-		background-image: url(../../images/pic07.jpg);
-		/* background-image: url(../../images/seaChase.jpeg); */
+		/*background-image: url(../../images/pic07.jpg);*/
+		background-color: #222734;
 		width: 100%;
 	}
 
@@ -42,7 +44,8 @@
 
 	.container {
 		width: 100%;
-		background-image: url(../../images/pic07.jpg);
+		background-color: #222734;
+		/*background-image: url(../../images/pic07.jpg);*/
 	}
 
 }
