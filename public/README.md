@@ -5,6 +5,8 @@ My portfolio made by me personally.  *Carlos R. Castillo*
 
 The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/
 
+Easy to remember link: [www.carloscastillo.us](https://www.carloscastillo.us)
+
 This portfolio is an ever evolving work that is being updated as my life's career changes.
 
 Created on: October 19, 2018
@@ -24,10 +26,13 @@ Created on: October 19, 2018
 ~~Last major update: May 04, 2019~~<br>
 
 ~~Last major update: June 14, 2019~~<br>
+
+~~Last major update: October 14, 2019~~<br>
 ![](images/ScreenShotPortfolio.png?raw=true)
-Last major update: October 14, 2019
+Last major update: December 16, 2019
 - Updated:  Added React project.
 - Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
+- Changed background, video, and other 
 
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
