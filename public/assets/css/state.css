@@ -1378,7 +1378,7 @@
 		}
 
 		.container {
-			padding: 0 2em 0 2em;
+			padding: 0 0em 0 0em;
 		}
 
 	/* Icons */
@@ -1469,7 +1469,7 @@
 		}
 
 		.container {
-			padding: 0 2em 0 2em;
+			padding: 0 .5em 0 .5em;
 		}
 
 	/* Item */
@@ -1659,7 +1659,7 @@
 
 		.container {
 			background-color: rgba(44, 44, 44, 0.666);
-			padding: 0 15px 0 15px;
+			padding: 0 10px 0 10px;
 			color: whitesmoke;
 		}
 
