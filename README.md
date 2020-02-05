@@ -19,6 +19,9 @@ Last minor update: December 16, 2019
 - Updated:  Added React project.
 - Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
 - Updated:  Background music to intro video.
+Last major update: February 04, 2020
+- resume moved to new html
+- added hr lines
 
 
 
