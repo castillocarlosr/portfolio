@@ -3,7 +3,7 @@
 
 My portfolio made by me personally.  *Carlos R. Castillo*
 
-[![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/images/Carlos%20R%20Castillo%20-%20Resume%20nov2018.pdf)
+[![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/images/Resume-Carlos-R-Castillo.pdf)
 
 ~~The link to my personal portfolio is https://carlos-c-portfolio.herokuapp.com/~~<br />
 The link to my current personal portfolio is https://carloscastillo.us
