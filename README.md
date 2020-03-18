@@ -14,14 +14,9 @@ Created on: October 19, 2018
 
 ~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last major update: October 21, 2019<br>
-Last minor update: December 16, 2019
-- Updated:  Added React project.
-- Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
-- Updated:  Background music to intro video.
-Last major update: February 04, 2020
-- resume moved to new html
-- added hr lines
+Last update: March 17, 2019
+- Updated:  Added mixer icon for xBox.
+
 
 
 
