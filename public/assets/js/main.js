@@ -92,6 +92,7 @@
   // Scrolly.
   $('.scrolly').scrolly();
 
+  //According to Bootstrap for carasol.  Will work this into certifications 2020June03
   $('.carousel').carousel({
     interval: 2000
   })
