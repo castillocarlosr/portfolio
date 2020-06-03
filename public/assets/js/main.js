@@ -92,6 +92,10 @@
   // Scrolly.
   $('.scrolly').scrolly();
 
+  $('.carousel').carousel({
+    interval: 2000
+  })
+
   // Header (narrower + mobile).
 
   // Toggle.
