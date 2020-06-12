@@ -37,6 +37,7 @@ app.get('/', function(request, response) {
 app.get('/tls', function(request, response) {
   console.log('I\'m here over an encrypted channel now!!!!!!');
   console.log('Last checkin on Oct 14, 2019.  Yup.');
+  console.log('Last recorded checkin on June 12, 2020.');
   response.render('pages/index');
 });
 
