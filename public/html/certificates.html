@@ -22,26 +22,89 @@
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
 		  <div class="navbar-header">
-			<a class="navbar-brand" href="#">Degree & Certificates</a>
 		  </div>
 		  <ul class="nav navbar-nav">
 			<li class="active"><a href="../index.html#portfolio"><button type="button" class="btn btn-primary btn-lg">Home</button></a></li>
-			<li><a href="#" onclick="toggle_visibility('twenty21');"><button type="button" class="btn btn-success">2021</button></a></li>
-			<li><a href="#" onclick="toggle_visibility('twenty20');"><button type="button" class="btn btn-success">2020</button></a></li>
-			<li><a href="#"><button type="button" class="btn btn-success">2019</button></a></li>
-			<li><a href="#"><button type="button" class="btn btn-success">2018</button></a></li>
-			<li><a href="#"><button type="button" class="btn btn-success">2008</button></a></li>
 		  </ul>
 		</div>
 	</nav>
 
-	<div id="allOpen" style="display:block;"> This is all the Certificates</div>
-	<div id="twenty21" style="display:none;"> This is 2021</div>
-	<div id="twenty20" style="display:none;"> This is 2020</div>
+
+	<div class="container">
+		<h2>Degree & Certificates</h2>
+		<p>To make the tabs toggleable, add the data-toggle="pill" attribute to each link. Then add a .tab-pane class with a unique ID for every tab and wrap them inside a div element with class .tab-content.</p>
+		<h4>Year</h4>
+		<ul class="nav nav-pills">
+		  <li class="active"><a data-toggle="pill" href="#home">2020</a></li>
+		  <li><a data-toggle="pill" href="#menu1">2019</a></li>
+		  <li><a data-toggle="pill" href="#menu2">2018</a></li>
+		  <li><a data-toggle="pill" href="#menu3">2008</a></li>
+		</ul>
+		
+		<div class="tab-content">
+		  <div id="home" class="tab-pane fade in active">
+			<h3>2020</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<!--Salesforce-->
+			<div class="row">
+				<div class="col-sm-6">
+				  <div class="card">
+					<div class="card-body">
+					  <h5 class="card-title">Special title treatment</h5>
+					  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+					  <a href="#" class="btn btn-primary">Go somewhere</a>
+					</div>
+				  </div>
+				</div>
+				<div class="col-sm-6">
+				  <div class="card">
+					<div class="card-body">
+					  <h5 class="card-title">Special title treatment</h5>
+					  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+					  <a href="#" class="btn btn-primary">Go somewhere</a>
+					</div>
+				  </div>
+				</div>
+			  </div>
+
+			<!---->
+			<h1>Salesforce</h1>
+			<div class="card-deck">
+			  <div class="card">
+				<a href="https://trailblazer.me/id/castillocarlosr">
+				<img src="../images/certifications/Trail2020May22.png" class="card-img-top" alt="..."></a>
+			  </div>
+			</div>
+			<!--Coursera-->
+			<h1>Coursera</h1>
+			<div class="card-deck">
+			  <div class="card">
+				<a href="https://www.coursera.org/account/accomplishments/certificate/CYRR5YAKURJB">
+				<img src="../images/certifications/Cloudera2020April.PNG" class="card-img-top" alt="..."></a>
+			  </div>
+			</div>
+			<!--2020-->
+		  </div>
+		  <div id="menu1" class="tab-pane fade">
+			<h3>2019</h3>
+			<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		  </div>
+		  <div id="menu2" class="tab-pane fade">
+			<h3>Menu 2</h3>
+			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+		  </div>
+		  <div id="menu3" class="tab-pane fade">
+			<h3>Menu 3</h3>
+			<p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+		  </div>
+		</div>
+	  </div>
 
 
 	<!--Scripts-->
 	<script src="../assets/js/main.js"></script>
 	<script src="../assets/js/certi.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </body>
 </html>
