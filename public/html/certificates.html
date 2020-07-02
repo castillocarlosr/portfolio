@@ -5,10 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="../assets/css/base.css"/>
+    <link rel="stylesheet" href="../assets/css/layout.css"/>
+    <!--
+    <link rel="stylesheet" href="../assets/css/state.css"/>
+    
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display+SC"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="../assets/css/layout.css"/>
-    <link rel="stylesheet" href="../assets/css/state.css"/>
+    -->
     <!--<link rel="stylesheet" href="assets/css/main.css"/>-->
     
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
@@ -18,10 +21,64 @@
     <title>Certificates</title>
 </head>
 <body>
-    <div>
-        <h6>&nbsp; Home Button</h6>
-        <a href="../index.html#portfolio">  <button  type="button" class="btn btn-primary btn-lg">Home Page</button></a>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+            </div>
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="../index.html#portfolio"><button type="button" class="btn btn-primary btn-lg">Home</button></a></li>
+            </ul>
+          </div>
+    </nav>
+
+    <div class="container">
+
+        <h2>Degree & Certificates</h2>
+		<p>Select the year to display Certificates earned.</p>
+        <h4>Year</h4>
+        <ul class="nav nav-pills">
+            <li class="active"><a data-toggle="pill" href="#home">2020</a></li>
+            <li><a data-toggle="pill" href="#menu1">2019</a></li>
+            <li><a data-toggle="pill" href="#menu2">2018</a></li>
+            <li><a data-toggle="pill" href="#menu3">2008</a></li>
+        </ul>
     </div>
-    
+    <!--Good below-->
+    <ul class="nav nav-pills">
+        <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
+        <li><a data-toggle="pill" href="#menu1">Menu 1</a></li>
+        <li><a data-toggle="pill" href="#menu2">Menu 2</a></li>
+      </ul>
+      
+      <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+          <h3>HOME</h3>
+          <p>Some content.</p>
+        </div>
+        <div id="menu1" class="tab-pane fade">
+          <h3>Menu 1</h3>
+          <p>Some content in menu 1.</p>
+        </div>
+        <div id="menu2" class="tab-pane fade">
+          <h3>Menu 2</h3>
+          <p>Some content in menu 2.</p>
+        </div>
+      </div>
+    <!--Good above-->
+
+    <!--Where will i place you home button?????-->
+
+    <!--JavaScript Files below-->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.scrolly.min.js"></script>
+    <script src="../assets/js/jquery.scrollex.min.js"></script>
+    <script src="../assets/js/browser.min.js"></script>
+    <script src="../assets/js/breakpoints.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <script src="../assets/js/certi.js"></script>  
+    <script src="../assets/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <!--ENd of body.  signed by Carlos R Castillo July 02, 2020-->  
 </body>
 </html>
