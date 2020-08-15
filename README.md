@@ -14,9 +14,10 @@ Created on: October 19, 2018
 
 ~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last update: May 06, 2020
-- Updated:  Added mixer icon for xBox.
-- *NEW* update rolling out on or after June 05, 2020.  (Adding certifications pages.  Testing new layouts with bootstrap, css, and js animation).
+Last update: Auhust 15, 2020
+- Updated:  Added certificates link and section below resume section.
+- Updated:  Removed :busts_in_silhouette: mixer :cry: icon for xBox.  
+
 
 
 
@@ -26,6 +27,9 @@ Last update: May 06, 2020
 
 [LinkedIn:  ](www.linkedin.com/in/carlosrcastillo)
 www.linkedin.com/in/carlosrcastillo
+
+[Salesforce - Trailblazer:  ]((www.linkedin.com/in/carlosrcastillo))
+https://trailblazer.me/id/castillocarlosr
 
 
 
