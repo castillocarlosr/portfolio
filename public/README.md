@@ -28,11 +28,12 @@ Created on: October 19, 2018
 ~~Last major update: June 14, 2019~~<br>
 
 ~~Last major update: October 14, 2019~~<br>
+
+~~Last major update: December 16, 2019~~<br>
 ![](images/ScreenShotPortfolio.png?raw=true)
-Last major update: December 16, 2019
-- Updated:  Added React project.
-- Updated:  Enforce www, http, and carloscastillo.us to use the secured HTTPS.
-- Changed background, video, and other 
+Last major update: August 15, 2019
+- Updated:  Added certificates page and section.
+- Updated:  Removed mixer icon.  Will replace with twitch. 
 
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
