@@ -14,9 +14,10 @@ Created on: October 19, 2018
 
 ~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last update: Auhust 15, 2020
+Last update: August 21, 2020
 - Updated:  Added certificates link and section below resume section.
-- Updated:  Removed :busts_in_silhouette: mixer :cry: icon for xBox.  
+- Updated:  Removed :busts_in_silhouette: mixer :cry: icon for xBox. 
+- Updated:  Replaced Mixer with Twitch. 
 
 
 
