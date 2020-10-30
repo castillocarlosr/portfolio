@@ -19,7 +19,10 @@ Last update: August 21, 2020
 - Updated:  Removed :busts_in_silhouette: mixer :cry: icon for xBox. 
 - Updated:  Replaced Mixer with Twitch. 
 
-
+Pending Update
+* October 31, 2020
+* Will update with new employment
+- LinkedIn is up-to-date
 
 
 
