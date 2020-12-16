@@ -20,7 +20,7 @@ Last update: August 21, 2020
 - Updated:  Replaced Mixer with Twitch. 
 
 Pending Update
-* October 31, 2020
+* December 16, 2020
 * Will update with new employment
 - LinkedIn is up-to-date
 
