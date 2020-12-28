@@ -20,8 +20,8 @@ Last update: August 21, 2020
 - Updated:  Replaced Mixer with Twitch. 
 
 Pending Update
-* December 16, 2020
-* Will update with new employment
+* December 28, 2020
+* Will update with new employment (HCL America)
 - LinkedIn is up-to-date
 
 
