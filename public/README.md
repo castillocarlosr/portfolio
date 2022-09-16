@@ -34,7 +34,7 @@ Created on: October 19, 2018
 Last major update: August 15, 2019
 - Updated:  Added certificates page and section.
 - Updated:  Removed mixer icon.  Will replace with twitch. 
-
+NEW UPDATES in progress : September 16, 2022
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
 

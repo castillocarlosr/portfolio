@@ -20,9 +20,11 @@ Last update: August 21, 2020
 - Updated:  Replaced Mixer with Twitch. 
 
 Pending Update
-* December 28, 2020
-* Will update with new employment (HCL America)
-- LinkedIn is up-to-date
+~~ December 28, 2020 ~~
+~~  Will update with new employment (HCL America) ~~
+* Currently being updated:  2022 September 16 
+* Updates to include projects worked on at HCL America
+- LinkedIn is up-to-date (mostly)
 
 
 
