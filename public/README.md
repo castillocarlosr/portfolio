@@ -31,10 +31,11 @@ Created on: October 19, 2018
 
 ~~Last major update: December 16, 2019~~<br>
 ![](images/ScreenShotPortfolio.png?raw=true)
-Last major update: August 15, 2019
+~~Last major update: August 15, 2019~~<br>
 - Updated:  Added certificates page and section.
 - Updated:  Removed mixer icon.  Will replace with twitch. 
-NEW UPDATES in progress : September 16, 2022
+<br>
+NEW UPDATES in progress : September 20, 2022
 Feel free to visit my LinkedIn page as well.
 www.linkedin.com/in/carlosrcastillo
 
