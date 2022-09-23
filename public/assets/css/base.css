@@ -206,3 +206,7 @@ p, ul, ol, dl, table {
 br.clear {
     clear: both;
 }
+
+.stretched-link{
+    align-self: center;
+}
