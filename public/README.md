@@ -33,7 +33,6 @@ Created on: October 19, 2018
 ![](images/ScreenShotPortfolio.png?raw=true)
 ~~Last major update: August 15, 2019~~<br>
 - Updated:  Added certificates page and section.
-- Updated:  Removed mixer icon.  Will replace with twitch. 
 <br>
 NEW UPDATES in progress : September 20, 2022
 Feel free to visit my LinkedIn page as well.

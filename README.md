@@ -10,19 +10,19 @@ The link to my current personal portfolio is https://carloscastillo.us
 
 This portfolio is an ever evolving work that is being updated as my life's career changes.
 
+
 Created on: October 19, 2018
 
 ~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
 Last update: August 21, 2020
 - Updated:  Added certificates link and section below resume section.
-- Updated:  Removed :busts_in_silhouette: mixer :cry: icon for xBox. 
-- Updated:  Replaced Mixer with Twitch. 
+- Updating:  Working on Certificates page.
 
 Pending Update
 ~~ December 28, 2020 ~~
 ~~  Will update with new employment (HCL America) ~~
-* Currently being updated:  2022 September 16 
+* Currently being updated:  September 27, 2022
 * Updates to include projects worked on at HCL America
 - LinkedIn is up-to-date (mostly)
 
@@ -34,12 +34,6 @@ Pending Update
 [LinkedIn:  ](www.linkedin.com/in/carlosrcastillo)
 www.linkedin.com/in/carlosrcastillo
 
-[Salesforce - Trailblazer:  ]((www.linkedin.com/in/carlosrcastillo))
-https://trailblazer.me/id/castillocarlosr
-
-
-
-
 I also welcome any recuiters or employers looking to add my skills to their company and/or team.
-Ideal location:  Seattle, Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, or other easy to commute by in bus, light-rail, car or a pleasent walk.
+Ideal location:  Work from Home, Seattle, or Greater Seattle Area.  This includes Bellevue, Redmond, Kirkland, or other easy to commute by in bus, light-rail, car or a pleasent walk.
 :coffee: .
