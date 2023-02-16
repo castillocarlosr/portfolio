@@ -15,7 +15,7 @@ Created on: October 19, 2018
 
 ~~First major update: October 24, 2018~~<br>
 ![](public/images/ScreenShotPortfolio.png?raw=true)
-Last update: November 18, 2022
+~~Last update: November 18, 2022
 - Updated:  Added certificates link and section below resume section.
 - Updating:  Working on Certificates page.
 
