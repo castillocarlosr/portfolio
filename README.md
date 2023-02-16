@@ -20,9 +20,8 @@ Last update: November 18, 2022
 - Updating:  Working on Certificates page.
 
 Pending Update
-~~ December 28, 2020 ~~
-~~  Will update with new employment (HCL America) ~~
-* Currently being updated:  September 27, 2022
+* Will update with most recent employment (HCL America)
+* Currently being updated:  February 15, 2023
 * Updates to include projects worked on at HCL America
 - LinkedIn is up-to-date (mostly)
 
