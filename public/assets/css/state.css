@@ -317,6 +317,7 @@ Reminder to self:  look into creating tablet mode as well.
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				justify-content: center;
 			}
 
 				.row > * {
@@ -566,6 +567,7 @@ Reminder to self:  look into creating tablet mode as well.
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				justify-content: center;
 			}
 
 				.row > * {
