@@ -744,6 +744,11 @@ button,
         background-image: url("images/overlay.png");
     }
 
+    p.text-left
+    {
+        text-align: left;
+    }
+
         #main > section.dark {
             color: #ddd;
             color: rgba(255, 255, 255, 0.75);
