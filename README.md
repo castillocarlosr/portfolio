@@ -21,8 +21,9 @@ Created on: October 19, 2018
 
 Pending Update
 * Will update with most recent employment (HCL America)
-* Currently being updated:  February 15, 2023
+* Currently being updated:  June 07, 2023
 * Updates to include projects worked on at HCL America
+* I'm so bad at this.  If only there was 50 more hours in the day or didn't have to sleep.  Or maybe become half a robot.  That would be cool.
 - LinkedIn is up-to-date (mostly)
 
 
