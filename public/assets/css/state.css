@@ -1399,7 +1399,7 @@ Reminder to self:  look into creating tablet mode as well.
 	/* Header */
 
 		#header {
-			width: 20%;
+			width: 15%;
 		}
 
 		#logo .image {
@@ -1426,7 +1426,7 @@ Reminder to self:  look into creating tablet mode as well.
 	/* Footer */
 
 		#footer {
-			margin-left: 20%;
+			margin-left: 15%;
 		}
 		#footer .copyright li {
 			background-color: rgba(197, 97, 218, 0.89);
@@ -1440,7 +1440,7 @@ Reminder to self:  look into creating tablet mode as well.
 	/* Main */
 
 		#main {
-			margin-left: 20%;
+			margin-left: 15%;
 		}
 
 		#warpSpeed{
