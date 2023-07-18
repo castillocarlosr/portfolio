@@ -16,8 +16,8 @@ The URL link to my current personal online portfolio is [https://carloscastillo.
 ```sh
 Why choose the domain .us instead of .com or .dev?
 ```
-> First, it was available.  At the time, carloscastillo.com or any variation was already taken.  
-> Second, it was the cheapest one.  I know, shocker.
+> First, it was available.      At the time, carloscastillo.com or any variation was already taken.  
+> Second, it was the cheapest one.  I know, shocker.  
 > Third, hopefully, favored by search engines in the United States.
 
    
