@@ -24,22 +24,22 @@ Why choose the domain .us instead of .com or .dev?
 ```sh
 What languages do I mostly write in?
 ```
-> C# has been my go-to.
-> The standard Javascript, HTML/CSS.
-> Some React, Java, and PHP.
-> I hope to learn more about React and some Python in my free time.
+> C# has been my go-to.  
+> The standard Javascript, HTML/CSS.  
+> Some React, Java, and PHP.  
+> I hope to learn more about React and some Python in my free time.  
 ```sh
 Any cloud services?
 ```
-> Azure.  I have a few years of professional  and personal experience in Azure.
-> I also have 3 certifications related to Azure.  AZ-900, SC-900, DP-900. 
-> Also about 3 months in WordPress.
+> Azure.  I have a few years of professional  and personal experience in Azure.  
+> I also have 3 certifications related to Azure.  AZ-900, SC-900, DP-900.   
+> Also about 3 months in WordPress.  
 ```sh
 How to contact me?
 ```
-> xxp7cl@m.hackerx.org
-> That's a real proxy email address thanks to the good people at HackerX.
-> You can also find my PDF Resume and LinkedIn below.
+> xxp7cl@m.hackerx.org  
+> That's a real proxy email address thanks to the good people at HackerX.  
+> You can also find my PDF Resume and LinkedIn below.  
 
 
 [![Portfolio](https://img.shields.io/badge/Resume-PDF-brightgreen.svg)](https://carlos-c-portfolio.herokuapp.com/images/Resume-Carlos-R-Castillo.pdf)
