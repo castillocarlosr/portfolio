@@ -32,7 +32,7 @@ What languages do I mostly write in?
 Any cloud services?
 ```
 > Azure.  I have a few years of professional  and personal experience in Azure.  
-> I also have 3 certifications related to Azure.  AZ-900, SC-900, DP-900.   
+> I also have 3 certifications related to Azure.  [AZ-900](https://www.credly.com/badges/9181b289-cbd5-4596-bf73-5c50a3dd9ea6/public_url), [SC-900](https://www.credly.com/badges/87e5bfb6-e424-400a-b977-060d80469289/public_url), [DP-900](https://www.credly.com/badges/828fad69-c7a4-4460-adcc-c58f06449d5a/public_url).   
 > Also about 3 months in WordPress.  
 ```sh
 How to contact me?
